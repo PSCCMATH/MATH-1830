@@ -1,6 +1,4 @@
 # MATH-1830
 // TODO put stuff in here describing this project
 
-or at least the URL
-
-[PSCCMATH.github.io/homeworku1.html](PSCCMATH.github.io/homeworku1.html)
+this repo will contain stackedit info, links to github, math writing, wiris, atom editor, inservice presentations, etc
